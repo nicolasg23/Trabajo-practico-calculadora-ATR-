@@ -1,4 +1,4 @@
-# tpcalculadora
+# Calculadora ATR ♪♫ 
 Calculadora. 1er trabajo practico. ATR♪♫ 
 Integrantes: 
 Nicolas Guillen,
